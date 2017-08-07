@@ -11,7 +11,7 @@ Python app for swarm cluster (oryginal get-started)
 
 ### command
 ```sh
-$ 
+$ docker stack deploy -c docker-compose.yml getstartedlab
 ```
 
 ### Configure script
