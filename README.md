@@ -1,15 +1,15 @@
 # Docker started
 
-Python app for swarm cluster (oryginal get-started)
+Python app for swarm cluster (original get-started)
 
 	- Virtualizer
 	- Python app
 	- Redis
 
 ### Tags
-	- part1
+	-latest
 
-### command
+### Command
 ```sh
 $ docker stack deploy -c docker-compose.yml getstartedlab
 ```
